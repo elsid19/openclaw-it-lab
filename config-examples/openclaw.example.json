@@ -1,0 +1,19 @@
+{
+  "gateway": {
+    "bind": "loopback",
+    "port": 18789,
+    "auth": {
+      "mode": "token",
+      "token": "REPLACE_WITH_SECURE_TOKEN"
+    },
+    "remote": {
+      "token": "REPLACE_WITH_SECURE_TOKEN"
+    },
+    "trustedProxies": [
+      "127.0.0.1/32"
+    ]
+  },
+  "channel": {
+    "mode": "local"
+  }
+}
