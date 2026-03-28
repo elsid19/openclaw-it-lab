@@ -2,11 +2,13 @@
 
 ## What this project does
 
-OpenClaw IT Lab is a practical, local-first operations lab for running and maintaining OpenClaw in a real IT support workflow, integrated with an **Obsidian-based Second Brain** for knowledge capture and retrieval.
+OpenClaw IT Lab is a practical, local-first operations lab for running and maintaining OpenClaw in a real IT support workflow, integrated with an **Obsidian-based Second Brain**, **Context OS**, and an **epistemic operating model** for grounded knowledge capture and retrieval.
 
 It includes:
 - documented architecture for local gateway deployment
 - Second Brain/Obsidian knowledge workflow integration
+- Context OS structure for deterministic knowledge routing
+- Epistemic OS principles for verification-first, grounded outputs
 - health and security validation scripts
 - troubleshooting runbooks for common failure cases
 - sanitized config examples safe for public sharing
@@ -18,6 +20,7 @@ I built this project to showcase hands-on IT/sysadmin ability through a real env
 - security baseline validation
 - incident troubleshooting and recovery
 - Obsidian Second Brain organization (projects, runbooks, IT knowledge notes)
+- Context OS + Epistemic OS discipline (routing rules, ontology/taxonomy grounding, verification-first outputs)
 - documentation for repeatable operations
 
 ## How to install it
